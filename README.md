@@ -9,7 +9,7 @@
 
 ## Description
 This project was developed for Computer Graphics subject @University of Coimbra, Informatics Engineering<br>
-Consists in develop a model (in my case I choose a PS4 Contoller) using OpenGL with some elements like solids, lights, textures, etc<br>
+Consists in develop a program that creates a model (in my case I choose a PS4 Contoller) using OpenGL with some elements like solids, lights, textures, etc<br>
 <p align="center">
   <img src=https://i.imgur.com/iBbXBRL.png />
 </p>
