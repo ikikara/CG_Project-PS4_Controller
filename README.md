@@ -15,11 +15,12 @@ Consists in develop a model (in my case I choose a PS4 Contoller) using OpenGL w
 </p>
 
 #### Main Languages:
-![](https://img.shields.io/badge/Visual_Basic-333333?style=flat&logo=VisualStudio&logoColor=8332E1)
+![](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=895BE6)
 
 ## Technologies used:
 1. IDE
     - [Visual Studio 2019](https://visualstudio.microsoft.com/vs/) 
+2. OpenGL
 
 ## To run this project:
 You have two ways to run this project:
