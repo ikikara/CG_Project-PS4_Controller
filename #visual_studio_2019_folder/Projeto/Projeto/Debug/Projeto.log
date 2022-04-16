@@ -1,0 +1,117 @@
+﻿  Projeto.cpp
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(31,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(31,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(31,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(32,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(32,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(32,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(33,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(33,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(33,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(34,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(34,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(34,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(37,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(37,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(37,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(38,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(38,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(38,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(39,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(39,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(39,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(40,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(40,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(40,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(43,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(43,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(43,35): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(44,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(44,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(44,35): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(45,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(45,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(45,35): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(46,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(46,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(46,35): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(49,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(49,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(49,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(50,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(50,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(50,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(51,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(51,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(51,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(52,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(52,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(52,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(55,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(55,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(55,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(56,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(56,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(56,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(57,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(57,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(57,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(58,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(58,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(58,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(61,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(61,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(61,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(62,3): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(62,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(62,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(63,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(63,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(63,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(64,9): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(64,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(64,36): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(71,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(72,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(73,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(74,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(75,19): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(78,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(79,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(80,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(81,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(82,20): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(85,18): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(86,19): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(87,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(88,21): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(91,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(92,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(93,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(94,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(97,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(98,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(99,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(100,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(103,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(104,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(105,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(106,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(109,22): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(110,23): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(111,18): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(112,17): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(256,34): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(256,61): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(256,86): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(256,114): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(788,26): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(808,22): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(1008,22): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(1011,27): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(1014,27): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+  RgbImage.cpp
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\Projeto.cpp(1017,27): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+  Generating Code...
+C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Projeto\RgbImage.cpp(182,10): warning C4101: 'err': unreferenced local variable
+  Projeto.vcxproj -> C:\Users\Ikiru\Desktop\repo github\CG\#visual_studio_2019_folder\Projeto\Debug\Projeto.exe
