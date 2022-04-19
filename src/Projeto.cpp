@@ -749,7 +749,7 @@ void cylinder(GLfloat radiusTOP, GLfloat radiusBOTTOM, GLfloat h, GLfloat r, GLf
 }
 
 void paraleliens(int material=1, int mesh=0) {
-	glVertexPointer(3, GL_FLOAT, 0, vertices); //���������������VertexArrays: vertices + normais + cores
+	glVertexPointer(3, GL_FLOAT, 0, vertices);
 	glNormalPointer(GL_FLOAT, 0, normais);
 
 	int index, jndex;
@@ -763,7 +763,7 @@ void paraleliens(int material=1, int mesh=0) {
 			drawMesh(4.375, 1.25, 0);
 		}
 		else {
-			glDrawElements(GL_POLYGON, 4, GL_UNSIGNED_INT, faces[i]);   // desenhar uma das faces do solido
+			glDrawElements(GL_POLYGON, 4, GL_UNSIGNED_INT, faces[i]);   //draw one face
 		}
 	}
 
@@ -940,37 +940,37 @@ void drawAxes()
 }
 
 void drawScene() {	
-	//base do comando
+	//base of controller
 	drawBaseController();
 	
-	//joystick-esquerdo
+	//left joystick
 	drawJoystick(-0.75, 0);
 
-	//joystick-direito
+	//right joystick
 	drawJoystick(0.75, 1);
 
-	//triangulo
+	//triangle
 	drawButton(0, 2.5, 0, 0.575, 1);
 
-	//bola
+	//circle
 	drawButton(1, 3.075, 0, 0, 2);
 
-	//quadrado
+	//square
 	drawButton(2, 1.925, 0, 0, 3);
 
 	//X
 	drawButton(3, 2.5, 0, -0.575, 4);
 	
-	//cima
+	//up
 	drawButton(4, -2.5, 0, -0.575, 0, 0);
 	
-	//direito
+	//right
 	drawButton(5, -1.925, 0, 0, 0, -90);
 
-	//baixo
+	//down
 	drawButton(6, -3.075, 0, 0, 0, 90);
 	
-	//esquerdo
+	//left
 	drawButton(7, -2.5, 0, 0.575, 0, 180);
 	
 	//PS4
@@ -1000,7 +1000,7 @@ void projection(const char flag[], GLfloat xVP, GLfloat yVP, GLfloat xObs, GLflo
 }
 
 void display(void) {
-	//================================================================= APaga ecran e lida com profundidade (3D)
+	//============================== Clear the screen ===================================
 	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
 
@@ -1041,7 +1041,7 @@ void display(void) {
 	glutSwapBuffers();
 }
 
-//======================================================= EVENTOS
+//=========================== Keys ============================
 void keyboard(unsigned char key, int x, int y) {
 	switch (key) {
 		//joystick left
@@ -1265,7 +1265,7 @@ void keyboard(unsigned char key, int x, int y) {
 			glutPostRedisplay();
 			break;
 
-			//Mudar a cor da luz pontual/teto
+		//Change the color of pontual light
 		case 'z':
 			luzR = (GLint)(luzR + 1) % 2;
 			glutPostRedisplay();
