@@ -37,4 +37,4 @@ You have two ways to run this project:
         ![image](https://user-images.githubusercontent.com/82664001/147995993-7b0bb92f-d8bd-4cd4-9d1e-99898d99dcbc.png)
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
